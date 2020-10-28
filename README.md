@@ -1,6 +1,7 @@
 # Zen.Noise
 
-Simple routines to create Noise. Currently very incomplete, only does Value noise for now.
+Simple routines to create Noise for use with procedurally generated artifacts.
+Currently very incomplete, only does Value noise for now.
 
 # Example
 To use:
