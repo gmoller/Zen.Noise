@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zen.NoiseTests", "NoiseTests\Zen.NoiseTests.csproj", "{BA9F0025-8AA8-4E71-9223-8538DD6BD7D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zen.Noise", "Noise\Zen.Noise.csproj", "{B4D847C7-5BE0-4348-80A6-F3349F868D47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA9F0025-8AA8-4E71-9223-8538DD6BD7D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA9F0025-8AA8-4E71-9223-8538DD6BD7D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA9F0025-8AA8-4E71-9223-8538DD6BD7D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA9F0025-8AA8-4E71-9223-8538DD6BD7D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4D847C7-5BE0-4348-80A6-F3349F868D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4D847C7-5BE0-4348-80A6-F3349F868D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4D847C7-5BE0-4348-80A6-F3349F868D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4D847C7-5BE0-4348-80A6-F3349F868D47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72B239A5-14C3-4CA5-9337-4C78EFA2822B}
+	EndGlobalSection
+EndGlobal
