@@ -3,7 +3,7 @@
 Simple routines to create Noise for use with procedurally generated artifacts.
 Currently very incomplete, only does Value noise for now.
 
-Nuget package download: https://www.nuget.org/packages/Zen.Noise/0.1.1
+Nuget package download: https://www.nuget.org/packages/Zen.Noise/0.1.3
 
 # Example
 To use:
